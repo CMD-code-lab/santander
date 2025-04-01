@@ -1,6 +1,6 @@
 # Santander Project
 
-Este es un proyecto de prueba técnica que consta de dos partes: un **frontend** y un **backend**. El propósito de este proyecto es cargar datos desde un archivo Excel y un formulario, y luego procesarlos en el backend.
+Este proyecto de prueba técnica consta de dos partes: un **frontend** y un **backend**. El propósito de este proyecto es cargar datos desde un archivo Excel y un formulario, y luego procesarlos en el backend.
 
 ## Estructura del Proyecto
 
